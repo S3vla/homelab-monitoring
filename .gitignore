@@ -1,0 +1,9 @@
+vm2/prometheus/data/
+vm2/grafana/data/
+
+
+.env
+*.env
+
+.DS_Store
+

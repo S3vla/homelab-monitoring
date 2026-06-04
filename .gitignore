@@ -7,3 +7,9 @@ vm2/grafana/data/
 
 .DS_Store
 
+# VirtualBox logs
+*.log
+
+
+vm2/alertmanager/alertmanager.yml
+

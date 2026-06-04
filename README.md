@@ -88,3 +88,9 @@ Uses **Node Exporter Full** (ID: 1860) from Grafana.com.
 - Add Loki for log collection
 - Replace Grafana with a custom React + Node.js dashboard
 - Deploy on a dedicated physical server
+
+## Screenshots
+
+![Grafana Dashboard](./Grafana.jpeg)
+
+![Prometheus Targets](./Prometheus.jpeg)
